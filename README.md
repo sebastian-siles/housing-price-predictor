@@ -1,5 +1,7 @@
 # California Housing Price Predictor
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zrknQ1aawsJKXWb_00y6RR2SrZCTE-j5)
+
 A supervised machine learning project implementing multivariate linear regression and ensemble methods to forecast median house values in California. Developed as a core asset for academic portfolio transfer.
 
 ## Project Overview
